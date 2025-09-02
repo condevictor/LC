@@ -1,6 +1,6 @@
 'use client'
 
-gitimport menu from "../../public/menu.svg"
+import menu from "../../public/menu.svg"
 import escudo from "../../public/escudo.svg"
 import fechar from "../../public/close.svg"
 import Image from "next/image";
