@@ -1,6 +1,8 @@
 'use client'
+
 import menu from "../../public/menu.svg"
 import escudo from "../../public/escudo.svg"
+import fechar from "../../public/close.svg"
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react"
